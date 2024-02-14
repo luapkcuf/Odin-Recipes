@@ -1,3 +1,2 @@
 # Odin-Recipes
-First project utilizing new found knowledge of basic HTML
-I will be creating a list of recipes with this knowledge
+First project utilizing new found knowledge of basic HTML. I will be creating a list of recipes with this knowledge. As I learn more about the theory of coding and work through the TOP's foundation course I will be revisting this project over time. 
