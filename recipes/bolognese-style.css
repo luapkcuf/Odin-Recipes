@@ -1,0 +1,22 @@
+body {
+    font-family: Helvetica, Arial, "Times New Roman";
+    background-color: hsl(315, 21%, 85%);
+}
+
+.center {
+    text-align: center;
+}
+
+.title {
+    background-color: hsl(11, 73%, 39%);
+    font-size: 36px;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+
+
+
