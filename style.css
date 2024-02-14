@@ -1,0 +1,12 @@
+body {
+    background-color: hsl(24, 99%, 87%);
+}
+
+.center {
+    text-align: center;
+}
+
+.title {
+    font-size: 48px;
+    font-family: Helvetica, Arial, "Times New Roman";
+}
